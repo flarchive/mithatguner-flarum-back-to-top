@@ -1,0 +1,42 @@
+{
+    "name": "mithatguner/flarum-back-to-top",
+    "description": "Flarum Back to Top Plugin",
+    "keywords": [
+      "flarum",
+      "extension",
+      "scroll up",
+      "back to top",
+      "back",
+      "top"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Mithat Güner",
+        "email": "mithat@pluginler.com",
+        "homepage": "https://pluginler.com"
+      }
+    ],
+    "support": {
+      "source": "https://github.com/MithatGuner/Flarum-Back-To-Top",
+      "issues": "https://github.com/MithatGuner/Flarum-Back-To-Top/issues"
+    },
+    "require": {
+      "flarum/core": "^0.1.0-beta.10"
+    },
+    "extra": {
+      "flarum-extension": {
+        "title": "Back to Top ",
+          "icon": {
+          "name": "fas fa-chevron-up",
+          "background": "#f8504b",
+          "color": "#fff"
+        }
+      },
+      "flagrow": {
+              "discuss": ""
+          }
+    }
+  }
+  
