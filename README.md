@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of mithatguner/flarum-back-to-top.** Not for installation: use [Packagist](https://packagist.org/packages/mithatguner/flarum-back-to-top) or the [upstream repository](https://github.com/MithatGuner/Flarum-Back-To-Top).
 
-**0** versions archived · Latest: [`v1.1`](https://github.com/flarchive/mithatguner-flarum-back-to-top/tree/archive/v1.1) · License: `MIT` · Flarum: `^0.1.0-beta.10`
+**2** versions archived · Latest: [`v1.1`](https://github.com/flarchive/mithatguner-flarum-back-to-top/tree/archive/v1.1) · License: `MIT` · Flarum: `^0.1.0-beta.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2020-03-31 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/mithatguner-flarum-back-to-top/tree/archive/v1.0) |
+| `v1.1` | 2020-03-31 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/mithatguner-flarum-back-to-top/tree/archive/v1.1) |
 
 Catalog entry: [packages/mithatguner-flarum-back-to-top.json](https://github.com/flarchive/archive-index/blob/main/packages/mithatguner-flarum-back-to-top.json)
 
